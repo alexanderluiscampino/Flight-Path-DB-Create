@@ -1,0 +1,19 @@
+year,month,day of week,date,Carrier,fl number,path id,airport,city,path order,distance,diverted,cancelled,cancel_code,arr_delay,dep_delay,taxi_out,taxi_in,carrier_delay,weather_delay,NAS_delay,sec_delay,late_delay
+2016,4,5,4/1/2016,AA,1,JFK_LAX,JFK,"New York, NY",1,2475,0,0,NC,-28,-4,26,15,0,0,0,0,0
+2016,4,5,4/1/2016,AA,1,JFK_LAX,LAX,"Los Angeles, CA",2,2475,0,0,NC,-28,-4,26,15,0,0,0,0,0
+2016,4,6,4/2/2016,AA,1,JFK_LAX,JFK,"New York, NY",1,2475,0,0,NC,-45,-5,20,5,0,0,0,0,0
+2016,4,6,4/2/2016,AA,1,JFK_LAX,LAX,"Los Angeles, CA",2,2475,0,0,NC,-45,-5,20,5,0,0,0,0,0
+2016,4,7,4/3/2016,AA,1,JFK_LAX,JFK,"New York, NY",1,2475,0,0,NC,68,61,45,17,33,0,7,0,28
+2016,4,7,4/3/2016,AA,1,JFK_LAX,LAX,"Los Angeles, CA",2,2475,0,0,NC,68,61,45,17,33,0,7,0,28
+2016,4,1,4/4/2016,AA,1,JFK_LAX,JFK,"New York, NY",1,2475,0,0,NC,-25,2,15,7,0,0,0,0,0
+2016,4,1,4/4/2016,AA,1,JFK_LAX,LAX,"Los Angeles, CA",2,2475,0,0,NC,-25,2,15,7,0,0,0,0,0
+2016,4,2,4/5/2016,AA,1,JFK_LAX,JFK,"New York, NY",1,2475,0,0,NC,22,-5,42,12,0,0,22,0,0
+2016,4,2,4/5/2016,AA,1,JFK_LAX,LAX,"Los Angeles, CA",2,2475,0,0,NC,22,-5,42,12,0,0,22,0,0
+2016,4,3,4/6/2016,AA,1,JFK_LAX,JFK,"New York, NY",1,2475,0,0,NC,-13,1,27,5,0,0,0,0,0
+2016,4,3,4/6/2016,AA,1,JFK_LAX,LAX,"Los Angeles, CA",2,2475,0,0,NC,-13,1,27,5,0,0,0,0,0
+2016,4,4,4/7/2016,AA,1,JFK_LAX,JFK,"New York, NY",1,2475,0,0,NC,28,9,47,11,0,0,28,0,0
+2016,4,4,4/7/2016,AA,1,JFK_LAX,LAX,"Los Angeles, CA",2,2475,0,0,NC,28,9,47,11,0,0,28,0,0
+2016,4,5,4/8/2016,AA,1,JFK_LAX,JFK,"New York, NY",1,2475,0,0,NC,-9,-1,19,13,0,0,0,0,0
+2016,4,5,4/8/2016,AA,1,JFK_LAX,LAX,"Los Angeles, CA",2,2475,0,0,NC,-9,-1,19,13,0,0,0,0,0
+2016,4,6,4/9/2016,AA,1,JFK_LAX,JFK,"New York, NY",1,2475,0,0,NC,-3,14,20,5,0,0,0,0,0
+2016,4,6,4/9/2016,AA,1,JFK_LAX,LAX,"Los Angeles, CA",2,2475,0,0,NC,-3,14,20,5,0,0,0,0,0
